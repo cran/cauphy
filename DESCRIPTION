@@ -1,5 +1,5 @@
 Package: cauphy
-Version: 1.0.1
+Version: 1.0.2
 Title: Trait Evolution on Phylogenies Using the Cauchy Process
 Description: The Cauchy Process can model pulsed continuous trait evolution
     on phylogenies. The likelihood is tractable, and is used for parameter
@@ -22,9 +22,9 @@ URL: https://gilles-didier.github.io/cauphy/
 BugReports: https://github.com/gilles-didier/cauphy/issues
 Language: en-US
 NeedsCompilation: yes
-Packaged: 2023-09-18 10:08:59 UTC; bastidep
+Packaged: 2023-11-29 12:49:10 UTC; bastidep
 Author: Gilles Didier [aut, cph],
   Paul Bastide [aut, cre]
 Maintainer: Paul Bastide <paul.bastide@cnrs.fr>
 Repository: CRAN
-Date/Publication: 2023-09-19 09:00:10 UTC
+Date/Publication: 2023-11-29 13:10:02 UTC
